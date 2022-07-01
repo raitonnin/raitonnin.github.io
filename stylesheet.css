@@ -2,7 +2,9 @@ Body {
     background-color: AliceBlue;
 }
 div {
-    margin-top : auto;
-    margin-right : auto;
-    margin-left : auto;
+    background-color:rgb(237, 218, 255);
+    margin-top : 5%;
+    margin-left : 5%;
+   margin-right : 5%;
+   text-align : left;
 }
