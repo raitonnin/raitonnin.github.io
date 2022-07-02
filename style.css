@@ -8,3 +8,10 @@ div {
    margin-right : 5%;
    text-align : left;
 }
+img{
+    display:block;
+    margin-left : auto;
+    margin-right : auto;
+    width: 25%;
+    height: 25%;
+}
