@@ -1,14 +1,14 @@
 Body {
     background-color: AliceBlue;
 }
-div {
+.header{
     background-color:rgb(237, 218, 255);
     margin-top : 5%;
     margin-left : 5%;
    margin-right : 5%;
    text-align : left;
 }
-img{
+.image{
     display:block;
     margin-left : auto;
     margin-right : auto;
