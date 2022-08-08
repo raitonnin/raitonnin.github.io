@@ -57,17 +57,19 @@ Body {
   padding: 2vh;
 }
 #navbar > ul > div > li:hover {
-  background-color: #dfdfe2;
-  color: #1b1b32;
+  color: #cfcfe4;
   cursor: pointer;
+}
+.othergames {
+  color: #7d7d92;
 }
 li {
   font-size: 2em;
   padding: 0;
 }
 img {
-  width: 20vw;
-  height: 30vh;
+  width: 20%;
+  height: auto;
 }
 
 #navbar ul {
