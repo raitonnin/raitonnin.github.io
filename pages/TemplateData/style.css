@@ -80,11 +80,9 @@ body {
   display: none;
 }
 @media all and (max-width: 500px) {
-  .unity-mobile #unity-canvas {
-    width: 50%;
-    height: 50%;
+  #unity-container {
     position: absolute;
-    left: 25%;
-    top: 25%;
+    left: 10%;
+    top: 10%;
   }
 }
