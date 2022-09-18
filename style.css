@@ -16,8 +16,8 @@
   margin: auto;
 }
 #navbar div {
-  border: 1px rgba(204, 204, 204, 0) solid;
-  padding: 40px;
+  border: 1vh rgba(204, 204, 204, 0) solid;
+  padding: 1vw;
 }
 a:link {
   color: rgb(0, 114, 255);
@@ -82,8 +82,6 @@ img {
   text-align: center;
 }
 @media screen and (max-width: 1920px) {
-  body {
-  }
   .introduction {
     font-size: 1.5em;
   }
@@ -95,8 +93,6 @@ img {
   }
 }
 @media screen and (max-width: 2140px) and (min-width: 1920px) {
-  body {
-  }
   .introduction {
     font-size: 2em;
   }
