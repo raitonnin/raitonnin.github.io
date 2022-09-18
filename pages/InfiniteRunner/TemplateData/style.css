@@ -79,3 +79,12 @@ body {
   padding: 10px;
   display: none;
 }
+@media all and (max-width: 500px) {
+  .unity-mobile #unity-canvas {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 25%;
+    top: 25%;
+  }
+}
